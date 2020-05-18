@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator2", "SimpleCalculator2\SimpleCalculator2.csproj", "{0FC31F2D-5FE9-4927-899B-3AC284F28F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator2.Test.Unit", "SimpleCalculator2.Test.Unit\SimpleCalculator2.Test.Unit.csproj", "{498F1359-3461-4448-A317-A9B19094F889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC31F2D-5FE9-4927-899B-3AC284F28F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC31F2D-5FE9-4927-899B-3AC284F28F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC31F2D-5FE9-4927-899B-3AC284F28F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC31F2D-5FE9-4927-899B-3AC284F28F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498F1359-3461-4448-A317-A9B19094F889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498F1359-3461-4448-A317-A9B19094F889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498F1359-3461-4448-A317-A9B19094F889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498F1359-3461-4448-A317-A9B19094F889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

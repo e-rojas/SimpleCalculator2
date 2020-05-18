@@ -1,0 +1,12 @@
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/bin/Debug/netcoreapp3.1/SimpleCalculator2.deps.json
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/bin/Debug/netcoreapp3.1/SimpleCalculator2.runtimeconfig.json
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/bin/Debug/netcoreapp3.1/SimpleCalculator2.runtimeconfig.dev.json
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/bin/Debug/netcoreapp3.1/SimpleCalculator2.dll
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/bin/Debug/netcoreapp3.1/SimpleCalculator2.pdb
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.csprojAssemblyReference.cache
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.csproj.CoreCompileInputs.cache
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.AssemblyInfoInputs.cache
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.AssemblyInfo.cs
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.dll
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.pdb
+/Users/js_junkie/Projects/SimpleCalculator2/SimpleCalculator2/obj/Debug/netcoreapp3.1/SimpleCalculator2.genruntimeconfig.cache
